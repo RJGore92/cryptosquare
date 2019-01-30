@@ -1,6 +1,6 @@
 # Epicodus Intro to Programming Unit 3.4 Practice: Cryptosquare
 
-#### Project 2 in Epicodus Unit 3.4: Roman Numerals.  01/28/2019 start date.
+#### Project 2 in Epicodus Unit 3.4: Roman Numerals.  01/28/2019 start date, 01/30/2019 initial finalization date.
 
 #### By **Robert James "Jimmy" Gore**
 
@@ -43,7 +43,7 @@ No known bugs are present in this project.
 #### Below are output examples of encoded messages based on the following user inputs.  The encoded messages will always be divided with blocks of five letters, the last of which can be less than five characters in length.
 
 * A user input provided with "dare" will convert to "drae" after conversion.
-* A user input of "hello, I'm Jimmy Gore" will convert to "himee myljg lioom r"
+* A user input of "hello, I'm Jimmy Gore" will convert to "hoige imolm mrljy e"
 * A user input provided in the example "don't compare yourself to others, compare yourself to the person you were yesterday" will convert to "daeer leweo rlref rerne fsyts rdtyt coooe acooo utnyy ouomr hyemr tpseo spsha eput" after encryption.
 
 ## Technologies Used
